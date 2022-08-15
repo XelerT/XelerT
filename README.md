@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)
 
 ---
 
