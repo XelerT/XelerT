@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
-
+-->
