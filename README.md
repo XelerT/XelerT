@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)](https://github-profile-trophy.vercel.app/?username=XelerT&column=8)
-
+-->
 ---
 
 ## 📈 GitHub Stats
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 
--->
+
