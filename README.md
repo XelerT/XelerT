@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XelerT&layout=compact&show_icons=true&theme=vue" /> -->
 </div>
 
-[![My most used langs](https://github-readme-stats.vercel.app/api/top-langs/user=XelerT&theme=dark&mode=weekly)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XelerT&theme=dark&mode=weekly)](https://github.com/anuraghazra/github-readme-stats)
 
 
