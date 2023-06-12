@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 ---
 
 ## Contacts
-* Email: [](mailto:taranov.sasha2004@gmail.com)
+* Email: [taranov.sasha2004@gmail.com](mailto:taranov.sasha2004@gmail.com)
 * Telegram: [@XelerLib](https://t.me/XelerLib)
