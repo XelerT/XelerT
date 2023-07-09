@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on X course.
+- 🔭 I’m currently doing an internship in Cyberprotect.
 
 ---
 
