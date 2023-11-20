@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently doing an internship in Cyberprotect.
+- 🔭 I’m currently studying C++ at MIPT YLab.
 
 ---
 
