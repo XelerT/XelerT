@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying C++ at MIPT YLab.
+- 🔭 I’m a sophomore at MIPT.
+- I'm currently working on Yadro C++ and RISC-V courses, and Sber Tollchain classes. 
 
 ---
 
